@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F413681F-6A9D-43FD-940F-CA0F5D215FEF}|..\\Text Client\\Text Client.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video06\\receivepastbuffersize\\text client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413681F-6A9D-43FD-940F-CA0F5D215FEF}|..\\Text Client\\Text Client.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video06\\receivepastbuffersize\\text client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610905CA-5B7E-4639-9F4E-421C30066515}|Text Server.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video06\\receivepastbuffersize\\text server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610905CA-5B7E-4639-9F4E-421C30066515}|Text Server.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610905CA-5B7E-4639-9F4E-421C30066515}|Text Server.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video06\\receivepastbuffersize\\text server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{610905CA-5B7E-4639-9F4E-421C30066515}|Text Server.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Client\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Text Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Client\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\Text Client\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:15:36.762Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Client\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Text Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Client\\Form1.cs",
+              "RelativeToolTip": "..\\Text Client\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:16:37.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Server\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:04:43.455Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video06\\ReceivePastBufferSize\\Text Server\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvz8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:06:17.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

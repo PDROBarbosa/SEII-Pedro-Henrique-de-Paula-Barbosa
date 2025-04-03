@@ -1,0 +1,3 @@
+
+Data Structures and Algorithms In C#: Intro & Abstract Data Types
+As estruturas de dados e algoritmos em C#. Ele explica que estruturas de dados são formas organizadas de armazenar e gerenciar dados, enquanto algoritmos são passos para resolver problemas. As estruturas de dados comuns incluem arrays, listas, pilhas, filas, e árvores. Além disso, são introduzidos os Tipos de Dados Abstratos (ADT - Abstract Data Types), que são modelos matemáticos para estruturas de dados, definindo o comportamento esperado sem especificar a implementação. ADTs são essenciais para entender como manipular dados de forma eficiente e segura.

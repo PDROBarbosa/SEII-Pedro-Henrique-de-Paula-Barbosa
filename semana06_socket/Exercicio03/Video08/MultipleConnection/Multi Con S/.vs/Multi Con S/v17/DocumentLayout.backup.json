@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6EB26F-3DC3-4F87-8A01-CD31585B37F8}|Multi Con S.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video08\\multipleconnection\\multi con s\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B6EB26F-3DC3-4F87-8A01-CD31585B37F8}|Multi Con S.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6EB26F-3DC3-4F87-8A01-CD31585B37F8}|Multi Con S.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video08\\multipleconnection\\multi con s\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6EB26F-3DC3-4F87-8A01-CD31585B37F8}|Multi Con S.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14151973-F9BC-4328-857D-85B4E5FF9BDA}|..\\Multi Con C\\Multi Con C.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video08\\multipleconnection\\multi con c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14151973-F9BC-4328-857D-85B4E5FF9BDA}|..\\Multi Con C\\Multi Con C.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video08\\multipleconnection\\multi con c\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14151973-F9BC-4328-857D-85B4E5FF9BDA}|..\\Multi Con C\\Multi Con C.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video08\\multipleconnection\\multi con c\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con S\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con S\\Main.cs*",
+              "RelativeToolTip": "Main.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:25:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con S\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con S\\Main.cs [Projeto]*",
+              "RelativeToolTip": "Main.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:25:10.359Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con C\\Main.cs",
+              "RelativeDocumentMoniker": "..\\Multi Con C\\Main.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con C\\Main.cs",
+              "RelativeToolTip": "..\\Multi Con C\\Main.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:16:39.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con C\\Main.cs",
+              "RelativeDocumentMoniker": "..\\Multi Con C\\Main.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con C\\Main.cs [Projeto]",
+              "RelativeToolTip": "..\\Multi Con C\\Main.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:13:11.93Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con C\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Multi Con C\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video08\\MultipleConnection\\Multi Con C\\Program.cs",
+              "RelativeToolTip": "..\\Multi Con C\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:11:58.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

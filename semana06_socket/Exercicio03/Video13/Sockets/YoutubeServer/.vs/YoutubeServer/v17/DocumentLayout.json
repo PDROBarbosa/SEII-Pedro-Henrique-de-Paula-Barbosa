@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video13\\Sockets\\YoutubeServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D281072-C2C7-4B1F-B621-CA0BCFB8EB6A}|..\\YoutubeClient\\YoutubeClient.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video13\\sockets\\youtubeclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB5F364-1933-4E99-A5C0-2DE526F917B5}|YoutubeServer.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana06\\exercicio03\\video13\\sockets\\youtubeserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB5F364-1933-4E99-A5C0-2DE526F917B5}|YoutubeServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video13\\Sockets\\YoutubeClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\YoutubeClient\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video13\\Sockets\\YoutubeClient\\Program.cs",
+              "RelativeToolTip": "..\\YoutubeClient\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:06:55.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video13\\Sockets\\YoutubeServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana06\\Exercicio03\\Video13\\Sockets\\YoutubeServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:06:47.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

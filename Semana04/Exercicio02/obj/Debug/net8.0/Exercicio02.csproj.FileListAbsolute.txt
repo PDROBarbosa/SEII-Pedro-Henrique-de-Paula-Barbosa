@@ -1,0 +1,5 @@
+C:\PERIODO 8\SEMB2\SEII-RodrigoMialichiTriboni\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERIODO 8\SEMB2\SEII-RodrigoMialichiTriboni\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+C:\PERIODO 8\SEMB2\SEII-RodrigoMialichiTriboni\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+C:\PERIODO 8\SEMB2\SEII-RodrigoMialichiTriboni\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\PERIODO 8\SEMB2\SEII-RodrigoMialichiTriboni\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.sourcelink.json

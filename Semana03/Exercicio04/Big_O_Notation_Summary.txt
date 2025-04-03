@@ -1,0 +1,3 @@
+
+Data Structures and Algorithms In C#: Big-O Notation
+Notação Big-O, uma maneira de descrever a eficiência de algoritmos em termos de tempo de execução e uso de memória à medida que o tamanho da entrada aumenta. A notação Big-O foca no comportamento assintótico, ignorando constantes e termos de menor ordem. Diferentes classes de complexidade, como O(1), O(n), O(n^2), e O(log n), são explicadas com exemplos práticos, ajudando a comparar a eficiência dos algoritmos e a fazer escolhas mais informadas no desenvolvimento de software.

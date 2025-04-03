@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana08\\exercicio02\\video01\\crud\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana08\\exercicio02\\video01\\crud\\migrations\\20241025175303_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|solutionrelative:migrations\\20241025175303_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana08\\exercicio02\\video01\\crud\\models\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|solutionrelative:models\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana08\\exercicio02\\video01\\crud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|c:\\users\\marco\\desktop\\seii\\seii-marcotuliovilelafonseca\\semana08\\exercicio02\\video01\\crud\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CE0673-25BD-49C0-935E-6CC60424585A}|Crud.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:55:15.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241025175303_Crud.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Migrations\\20241025175303_Crud.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025175303_Crud.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Migrations\\20241025175303_Crud.cs",
+              "RelativeToolTip": "Migrations\\20241025175303_Crud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:53:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:50:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Models\\BD.cs",
+              "RelativeDocumentMoniker": "Models\\BD.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Models\\BD.cs",
+              "RelativeToolTip": "Models\\BD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:43:11.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\SEII\\SEII-MarcoTulioVilelaFonseca\\Semana08\\Exercicio02\\Video01\\Crud\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:42:07.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
